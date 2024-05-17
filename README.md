@@ -42,6 +42,5 @@ Contributions are welcome! If you have any ideas for improving the project or wa
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
-For any inquiries or suggestions, please contact Your Name.
+
 
