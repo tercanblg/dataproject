@@ -1,7 +1,5 @@
 # dataproject
 
-Sure, here's a basic template for a README file for your data extraction project:
-
 Data Extraction Project
 Overview
 This project aims to extract data from various sources using Python scripts. The extracted data can be used for analysis, visualization, or any other purposes as needed.
